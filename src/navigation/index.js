@@ -151,7 +151,6 @@ const ComingSoon = ({navigation}) => {
   <View style={styles.container}>
     <Text style={styles.Text2}>Wishlist</Text>
     <Text style={styles.Text}>
-    
       coming soon...
     </Text>
   </View>
@@ -163,7 +162,6 @@ const ComingSoon2 = ({navigation}) => {
   <View style={styles.container}>
     <Text style={styles.Text2}>My Books</Text>
     <Text style={styles.Text}>
-    
       coming soon...
     </Text>
   </View>
