@@ -36,7 +36,7 @@ const Tabs = () => {
       }}
     >
       <Tab.Screen 
-        name="HomeStack" 
+        name="HStack" 
         component={HStack}
         options={{
           headerShown: false,
