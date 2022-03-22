@@ -127,7 +127,7 @@ const HStack = ({navigation}) => {
               name={'chevron-left'}
               size={30}
               onPress={() =>navigation.goBack(null)}
-              style={{ marginLeft: 8 }}
+              style={{ marginLeft: 0 }}
             />
           ),
           headerRight: () => (
@@ -136,7 +136,7 @@ const HStack = ({navigation}) => {
             color={'#6200EE'}
             size={30}
             onPress={() =>alert("bookmark!")}
-            style={{ marginLeft: 8 }}
+            style={{ marginLeft: 12 }}
           />
             
           ),
